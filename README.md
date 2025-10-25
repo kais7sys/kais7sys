@@ -1,16 +1,28 @@
 ## Hi there 👋
+I'm kais shaikh👋
 
-<!--
-**kais7sys/kais7sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Hardworking, Disciplined, and Passionate for AI
 
-Here are some ideas to get you started:
+I'm an aspiring developer deeply committed to learning and building in the fields of **Artificial Intelligence** and **Automation**. I believe in the power of code to create intelligent systems and streamline complex tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 My Current Focus:
+
+* **Coding Language:** Python 🐍
+* **Key Interest:** AI, Machine Learning (ML), and AI Automations.
+
+---
+
+### 🛠️ Technologies & Tools:
+
+| Category | Tools/Skills |
+| :--- | :--- |
+| **Languages** | `Python` |
+| **Version Control** | `Git`, `GitHub` |
+
+---
+
+### 🌐 Connect with Me:
+
+* **LinkedIn:** [https://www.linkedin.com/in/kaisshaikh/]
