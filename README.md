@@ -38,21 +38,4 @@ I'm always open to connecting with other developers and AI enthusiasts. Feel fre
 
 
 
-### 🌐 Let's Connect:
 
-I'm always open to connecting with other developers and AI enthusiasts. Feel free to reach out!
-
-<p align="left">
-  <a href="<https://www.linkedin.com/in/kaisshaikh/>" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="<https://www.instagram.com/_kais_shaikh/>" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" style="filter: grayscale(100%);"/>
-  </a>
-  <a href="<https://github.com/kais7sys>" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="mailto:<kaisshaikh238@gmail.com>" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/>
-  </a>
-</p>
