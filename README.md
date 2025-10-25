@@ -30,11 +30,10 @@ I'm an aspiring developer driven by a strong commitment to learning and building
 
 I'm always open to connecting with other developers and AI enthusiasts. Feel free to reach out!
 
-[![https://www.linkedin.com/in/kaisshaikh/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<YOUR_LINKEDIN_URL>)
-[![https://www.instagram.com/_kais_shaikh/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](<YOUR_INSTAGRAM_URL>)
-[![https://github.com/kais7sys](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](<YOUR_GITHUB_PROFILE_URL>)
-[![kaisshaikh238@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<YOUR_EMAIL_ADDRESS>)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaisshaikh/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kais_shaikh/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kais7sys)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaisshaikh238@gmail.com)
 
 
 
