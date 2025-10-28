@@ -9,7 +9,7 @@ I'm an aspiring developer driven by a strong commitment to learning and building
 ### 🚀 My Focus & Discipline:
 
 * **Primary Language:** Python 🐍 (The foundation for AI/ML)
-* **Current Discipline:** Mastering **Git and GitHub** workflows (from local commits to deploying projects like the Dino Game).
+* **Current Discipline:** exploring and creating AI applications
 * **AI Ambition:** Applying disciplined coding practices to **Machine Learning** projects.
 * **Latest Project:** [https://kais7sys.github.io/Dino-Game/].
 
