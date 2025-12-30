@@ -2,7 +2,7 @@
 
 ### 💡 Hardworking, Disciplined, and Passionate for AI
 
-I'm an aspiring developer driven by a strong commitment to learning and building in **Artificial Intelligence, Coding, and AI Automation**. My goal is to build intelligent systems and streamline complex processes with Python.
+I'm an aspiring developer driven by a strong commitment to learning and building in **Artificial Intelligence, Coding, and AI Automation**. 
 
 ---
 
@@ -10,7 +10,6 @@ I'm an aspiring developer driven by a strong commitment to learning and building
 
 * **Primary Language:** Python 🐍 (The foundation for AI/ML)
 * **Current Discipline:** exploring and creating AI applications
-* **AI Ambition:** Applying disciplined coding practices to **Machine Learning** projects
 
 ---
 
@@ -18,8 +17,8 @@ I'm an aspiring developer driven by a strong commitment to learning and building
 
 | Category | Tools/Interests |
 | :--- | :--- |
-| **Languages** | `Python` 🐍, `HTML`, `CSS`, `JavaScript` |
-| **Core AI Focus** | `Artificial Intelligence`, `Machine Learning`, `Automation` |
+| **Languages** | `Python` 🐍, `HTML`, `CSS`, `JavaScript` (beginer)|
+| **Core AI Focus** | `Artificial Intelligence`, `computer science`, `Automation` |
 | **Version Control** | `Git`, `GitHub` |
 
 
