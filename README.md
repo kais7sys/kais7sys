@@ -1,6 +1,6 @@
 # Hi there, I'm Kais Shaikh 👋
 
-### 💡 Hardworking, Disciplined, and Passionate for AI
+### 💡 Hardworking, Disciplined, and Passionate for CS & AI
 
 I'm an aspiring developer driven by a strong commitment to learning and building in **Artificial Intelligence, Coding, **. 
 
