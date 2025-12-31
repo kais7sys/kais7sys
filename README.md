@@ -23,7 +23,7 @@ I'm an aspiring developer driven by a strong commitment to learning and building
 
 
 ---
-###  ![Portfolio](https://kais-portfolio-web.lovable.app/) 
+###  [Portfolio](https://kais-portfolio-web.lovable.app/) 
 ### 🌐 Let's Connect:
 
 I'm always open to connecting with other developers and AI enthusiasts. Feel free to reach out!
